@@ -1,0 +1,16 @@
+{
+  "salon": {
+    "media_file": "salon.mp4",
+    "shop_url": "https://www.etsy.com/listing/4603801209/salon-studio-os-offline-business",
+    "product": "SALON STUDIO OS",
+    "duration_seconds": 13.7,
+    "demo_notice": "Actual application screenshot, fictional demo records"
+  },
+  "barber": {
+    "media_file": "barber.mp4",
+    "shop_url": "https://www.etsy.com/listing/4603789315/barbershop-os-offline-business-dashboard",
+    "product": "BARBERSHOP OS",
+    "duration_seconds": 13.7,
+    "demo_notice": "Actual application screenshot, fictional demo records"
+  }
+}
